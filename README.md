@@ -7,6 +7,10 @@ Text content (indicated by $T$).
 Aspect (e.g., "Serviste", "Ortam", "sushico şubesi").
 Sentiment label (e.g., "Positive")
 
+Requirements:
+Hugging Faces-Hub transformers installation
+pip install transformers
+
 Sources:
 https://www.kaggle.com/code/pavansanagapati/knowledge-graph-nlp-tutorial-bert-spacy-nltk 
 https://levelup.gitconnected.com/recommendation-systems-on-the-web-2503d5ca5448 
